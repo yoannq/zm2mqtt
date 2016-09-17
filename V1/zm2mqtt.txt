@@ -1,0 +1,8 @@
+[mqtt]
+mqtt_url = mqtt://localhost:1883
+mqtt_publish_str = zoneminder/
+[taillog]
+commande = /usr/bin/tail -f /var/log/syslog
+
+
+

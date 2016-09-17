@@ -1,0 +1,7 @@
+[mqtt]
+mqtt_url = mqtt://localhost:1883
+mqtt_publish_str = zoneminder/
+
+
+
+
